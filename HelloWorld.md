@@ -2,11 +2,11 @@
 ###Created as a part of assignment of the Coursera class "The Data Scientist’s Toolbox"
 Markdown can be used to create Unordered Lists
 * like <b>this</b> 
-* or like this  
-* or even like this!
-+whis is so good that we have part one of it
-+and <it>part two</it>  
+* or like <i> this </i> 
+* or even <i><b>like this!</i></b>
+    + whis is so good that we have part one of it
+    + and <i>part two</i>  
 
 At least the markdown language seems to <br>
 some basic <p>
-HTML commands
+HTML commands like "italics","bold", "break", and "paragraph"
